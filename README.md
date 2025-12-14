@@ -1,4 +1,4 @@
-# Utils Library - Test Suite
+# Utils Library - Test Suite (CI)
 
 Librería de utilidades en C# con funciones matemáticas, de lógica y manipulación de cadenas, acompañada de una suite completa de pruebas unitarias con xUnit.
 
