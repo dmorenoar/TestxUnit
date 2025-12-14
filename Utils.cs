@@ -18,10 +18,7 @@
             }
             return dividend / divisor;
         }
-
-
-
-
+        
         /// <summary>
         /// Adds two integers and returns the result.
         /// </summary>
@@ -107,3 +104,4 @@
         }
     }
 }
+
